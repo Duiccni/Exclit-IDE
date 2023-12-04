@@ -1,7 +1,7 @@
 # Exclit-IDE
 
-* v0.6
+### v0.6
 ![image](https://github.com/Duiccni/Exclit-IDE/assets/143947543/236c0250-d4b2-44b5-bcf3-4dd44876f5f3)
 
-* v0.4beta
+### v0.4beta
 ![Untdsasaitled](https://github.com/Duiccni/Exclit-IDE/assets/143947543/1713f2d2-94dd-4b1b-a911-61430a671e50)
